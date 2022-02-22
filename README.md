@@ -1,7 +1,7 @@
 ## **Hello, I'm a beginner iOS-developer**
 *I decided to change everything in my life and become an ios developer*
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitKhryapin&hide=stars,issue&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitKhryapin&hide=stars,issues&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Language and Tools
 
